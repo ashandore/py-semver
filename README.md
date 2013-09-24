@@ -4,7 +4,7 @@ py-semver
 A python port of the node.js semver library. 
 
 ## Usage
-py-semver doesn't yet have a setup.py, so just pop it in your working directory. Then:
+Run `python3 setup.py install`. Then:
 
 	import semver
 	semver.valid('1.2.3') // '1.2.3'
